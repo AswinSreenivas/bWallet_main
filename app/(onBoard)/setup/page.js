@@ -26,6 +26,7 @@ export default function Setup() {
 
       <section className="grid-bg flex-1">
         <SetupHero activeStep={activeStep} />
+        <div>Hello</div>
       </section>
     </>
   );
